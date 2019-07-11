@@ -1,6 +1,6 @@
 # README for karauke_udn songsheets
 
-This is a repo for songsheets in /ukedown/ format. This is a plain text format, a special case of the commonly used 'markdown' format. With the appropriate tooling it can be converted into HTML, EPUB and/or PDF for publication, projection etc, using CSS for styling.
+This is a repo for songsheets in //ukedown// format. This is a plain text format, a special case of the commonly used 'markdown' format. With the appropriate tooling it can be converted into HTML, EPUB and/or PDF for publication, projection etc, using CSS for styling.
 
 ## ukedown format
 
