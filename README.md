@@ -63,12 +63,10 @@ An example with chords, normal vox and backing vox:
 (G7)Oh, (C)oo-bee-doo (oop-de-wee)
 I wanna be like (A7)you (hup-de-hooby-do-bah)
 ```
-
 Which should produce this:
 
-**(G7)**Oh, **(C)**oo-be-doo _(opp-de-wee)_
-
-I wanna be like **(A7)**you _(hup-de-hooby-do-bah)_
+<b>(G7)</b>Oh, <b>(C)</b>oo-be-doo <i>(opp-de-wee)</i><br/>
+I wanna be like <b>(A7)</b>you <i>(hup-de-hooby-do-bah)</i><br/>
 
 ### 6. Boxed sections
 Repeated song sections, such as choruses and bridges are often put into boxes, to avoid repetition.
@@ -91,7 +89,7 @@ is exactly the same as
 
 and results in something like this
 
-<table border="1px solid black">
+<table border="1px solid black" padding="5px" width="80%" margin-left="5%">
 <tr>
 <td>
 <h2>[chorus]</h2>
