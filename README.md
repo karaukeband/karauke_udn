@@ -1,30 +1,3 @@
-<head>
-<style>
-html {
-  font-family: Verdana, helvetica, Sans-serif;
-  font-size: 12pt;
-
-}
-
-h1 {
-  text-align: center;
-  font-size: 1.2em;
-}
-
-h2 {
-  text-align: left;
-  font-size: 1.1em;
-}
-
-table {
-	border: 2px solid black;
-    border-collapse: collapse;
-    margin: 5%;
-    width: 80%;
-    padding: 5px;
-}
-</style>
-</head>
 # README for karauke_udn songsheets
 
 This is a repo for songsheets in _ukedown_ format. This is a plain text format, a special case of the commonly used 'markdown' format. With the appropriate tooling it can be converted into HTML, EPUB and/or PDF for publication, projection etc, using CSS for styling.
@@ -47,7 +20,7 @@ This will  be rendered in the output like this:
 ### 2. Chords
 Chords are displayed inline, surrounded by parentheses. Just like the wednesdays format, without worrying about making them **bold**
  ```
-(B&flat;)Don’t underestimate the (Gm)things that I will (Bb)do
+(Bb)Don’t underestimate the (Gm)things that I will (Bb)do
  ```
   - No funny business like 'Single Strums' or unicode downarrows'
 
@@ -72,6 +45,8 @@ Rendered like this:
 
 **[stop backing vox]**
 
+Unlike headings, these can be displayed on the same line as other elements, so they can go at the end of lines etc.
+
 ### 5. Backing Vocals
 Backing vocals are written like chords, using parentheses. This may change in a future revision as it could potentially lead to confusion. Currenltly anything in () that doesn't match a known chord pattern is presumed to be babacking vocals.
 
@@ -90,7 +65,9 @@ I wanna be like (A7)you (hup-de-hooby-do-bah)
 ```
 
 Which should produce this:
+
 **(G7)**Oh, **(C)**oo-be-doo _(opp-de-wee)_
+
 I wanna be like **(A7)**you _(hup-de-hooby-do-bah)_
 
 ### 6. Boxed sections
@@ -114,7 +91,7 @@ is exactly the same as
 
 and results in something like this
 
-<table>
+<table border="1px solid black">
 <tr>
 <td>
 <h2>[chorus]</h2>
