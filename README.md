@@ -22,7 +22,7 @@ Chords are displayed inline, surrounded by parentheses. Just like the wednesdays
  ```
 (Bb)Don’t underestimate the (Gm)things that I will (Bb)do
  ```
-  - No funny business like 'Single Strums' or unicode downarrows'
+  - No funny business like 'Single Strums' or 'unicode downarrows' (&#x2B07;)
 
 ### 3. Sections
 Section titles should be surrounded by square brackets, e.g. `[chorus]`, which are then rendered as second-level headers, like this:
