@@ -48,7 +48,7 @@ Rendered like this:
 Unlike headings, these can be displayed on the same line as other elements, so they can go at the end of lines etc.
 
 ### 5. Backing Vocals
-Backing vocals are written like chords, using parentheses. This may change in a future revision as it could potentially lead to confusion. Currenltly anything in () that doesn't match a known chord pattern is presumed to be babacking vocals.
+Backing vocals are written like chords, using parentheses. This may change in a future revision as it could potentially lead to confusion. Currenltly anything in () that doesn't match a known chord pattern is presumed to be backing vocals.
 
 ```
 (Cm)(You’re gonna wish you) (Bb)(never had met me)
@@ -65,7 +65,7 @@ I wanna be like (A7)you (hup-de-hooby-do-bah)
 ```
 Which should produce this:
 
-<b>(G7)</b>Oh, <b>(C)</b>oo-be-doo <i>(opp-de-wee)</i><br/>
+<b>(G7)</b>Oh, <b>(C)</b>oo-be-doo <i>(oop-de-wee)</i><br/>
 I wanna be like <b>(A7)</b>you <i>(hup-de-hooby-do-bah)</i><br/>
 
 ### 6. Boxed sections
