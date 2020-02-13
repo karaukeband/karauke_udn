@@ -9,14 +9,19 @@ There's a fire with (G7)in my soul
 (F)Just (C)one (G)look and I can hear a bell ring
 (F)One (C)more (G)look and I forget everything, o-o-o-oh
 
-{drop out}(C)Mamma mia, here I go again
-(Bb)my (F)my, how can I re(C)sist you?
-(C)Mamma mia, does it show again?
-(Bb)My (F)my, just how much I've (C)missed you
-{drop in}Yes, I've been (G)broken hearted (Am)blue since the (Em)day we parted
-(Bb)Why, (F)why (Dm)did I ever (G7)let you go?
-(C)Mamma mia, (Am)now I really know,
-(Bb)My (F)my, (Dm)I could never (G7)let you go.
+| [chorus]
+| {drop out}
+| (C)Mamma mia, here I go again
+| (Bb)my (F)my, how can I re(C)sist you?
+| (C)Mamma mia, does it show again?
+| (Bb)My (F)my, just how much I've (C)missed you
+| {drop in}
+| Yes, I've been (G)broken hearted
+| (Am)blue since the (Em)day we parted
+| (Bb)Why, (F)why (Dm)did I ever (G7)let you go?
+| (C)Mamma mia, (Am)now I really know,
+| (Bb)My (F)my, (Dm)I could never (G7)let you go.
+
 (C) (C+) {x2}
 
 (C)I've been (G)angry and (C)sad about the (G)things that you (F)do
@@ -28,26 +33,16 @@ You know that I'm (G7)not that strong.
 (F)Just (C)one (G)look and I can hear a bell ring
 (F)One (C)more (G)look and I forget everything, o-o-o-oh
 
-{drop out}(C)Mamma mia, here I go again
-(Bb)my (F)my, how can I re(C)sist you?
-(C)Mamma mia, does it show again? (Bb) My (F)my, just how much I've (C)missed you ,
-{drop in}Yes, I've been (G)brokenhearted (Am)blue since the (Em)day we parted
-(Bb)Why, (F)why (Dm)did I ever (G7)let you go?
+[repeat chorus]
 
 (C)Mamma mia, (Am)even if I say
 (Bb)Bye (F)bye, (Dm)leave me now or (G7)never
 (C)Mamma mia, (Am)it's a game we play
 (Bb)Bye (F)bye (Dm)doesn't mean for (G7)ever
 
-(C)Mamma mia, here I go again
-(Bb)my (F)my, how can I re(C)sist you?
-(C)Mamma mia, does it show again?
-(Bb)My (F)my, just how much I've (C)missed you
-Yes, I've been (G)brokenhearted
-(Am)blue since the (Em)day we parted
-(Bb)Why, (F)why (Dm)did I ever (G7)let you go?
-(C)Mamma mia, (Am)now I really know, (Bb)My (F)my
-(Dm)I could never (G7)let you go.
+[repeat chorus]
+
 (C) (C+) {x2} (C)
 
-; font_size: 1.1rem
+; # meta
+; font_size: 13pt

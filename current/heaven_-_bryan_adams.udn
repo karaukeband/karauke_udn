@@ -33,7 +33,7 @@ Cause our (G)love will light the way
 
 [chorus]
 
-(G) {for one bar}
+(G) {two bars}
 
 [bridge]
 (Dm) I've been waitin' (Em)for so (F)long
@@ -54,3 +54,6 @@ Yeah, I'll be (G)standin' there by you
 You're (F)all that I (G)want…
 you're (Am)all that I need
 (G) {one bar}  (C*)
+;
+; # meta: rendering and other overrides
+; font_size: 13pt
