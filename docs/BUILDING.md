@@ -28,14 +28,13 @@ Git is our means of managing songbook content and changes to songbook content on
 [github](https://github.com). You can get this from the [git downloads
 page](https://git-scm.com/downloads)
 
-A step-by-step guide to installing this on windows is [here](docs/git-on-windows.md)
-.
+A step-by-step guide to installing this on windows is here [Installing git on Windows](docs/git-on-windows.md)
+
 For Mac users, install [homebrew](https://brew.sh/) if you don't already have it and then
     
     brew install git
 
 in a terminal/iterm2 window should do the trick.
-
 
 ### 3. (Optional) A decent terminal emulator
 
@@ -76,20 +75,21 @@ On a Mac, open either iterm or terminal and do the same thing, here's the Mac ve
 <img src="images/is-it-all-working-mac.png" max-width="50%">
 
 
-## Setting up
+# Setting up the build environment
 
 Now we'll take a copy of this locally and treat it with wanton abandon, or something.
 
 
-### clone the repository so you have a local copy
+## Make local copies of the songbook and tools repos
 
 For all this I am going to presume you are creating a new folder/directory called 'karauke' in your
-user's documents area (`/Users/yourname/Documents` on a mac, `C:\Users\yourname\Documents` in windows. If you put it somwhere
-else, you'll need to adjust your location appropriately
+user's documents area, which would be
+- `/Users/yourname/Documents` on a mac
+- `C:\Users\yourname\Documents` on windows.
 
-you'll need  different things here...
+If you put it somwhere else, you'll need to adjust your location appropriately
 
-1. This repository (the songsheets)
+### clone the songbook repository
 
     git clone https://github.com/karaukeband/karauke_udn
 
@@ -103,7 +103,7 @@ which should result in
     Receiving objects: 100% (809/809), 2.96 MiB | 2.85 MiB/s, done.
     Resolving deltas: 100% (463/463), done.
 
-2. The songbook tooling - in another repository until I package it properly
+### Clone the book creation tools
 
     git clone https://github.com/lanky/ukebook-md
 
@@ -117,9 +117,9 @@ which should do this:
     Receiving objects: 100% (1374/1374), 388.24 KiB | 1.49 MiB/s, done.
     Resolving deltas: 100% (747/747), done.
 
-### Set up the development environment for generating books
+## Set up the development environment for generating books
 
-make sure you're in the ukebook-md directory
+make sure you're in the `ukebook-md` directory
 
     cd ukebook-md
 
@@ -193,6 +193,4 @@ The main tool for building books from ukedown files is `genbook.py`. It has a lo
 and
 
     ./makepdf.py --help
-
-
 
