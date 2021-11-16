@@ -1,5 +1,5 @@
 <!-- markdownlint-disable MD0##-->
-<!-- vim: set tw=##0 : -->
+<!-- vim: set tw=80 : -->
 # Installing git on Windows
 
 Because the installer asks a lot of questions, this is a quick picture-heavy run-through of the git
@@ -23,7 +23,8 @@ user-friendly - I would choose one of
 * `Atom`
 
 The first of these is the simplest - it's just Notepad on steroids, the other two are programmer's
-editors (or IDEs) which understand git natively. Or
+editors (or IDEs) which understand git natively. Or choose something completely
+different.
 
 
 ## Selecting the default branch
@@ -92,3 +93,5 @@ None of this malarkey, thanks. Unless you really know what you are doing
 
 
 <img src="images/git-windows-expermental-features.png" max-width="50%">
+
+Now that should all be working, we can go back to the building docs :)
