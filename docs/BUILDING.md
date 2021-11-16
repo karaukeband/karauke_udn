@@ -10,7 +10,7 @@ achieve it, and no fancy-pants web interface for it, but it is pretty easy, actu
 You'll need certain software on your computer to make this work - how you get it will depend on
 your OS.
 
-1. Python
+### 1. Python
 
 You can install this from here: [Python Downloads](https://www.python.org/downloads/)
 At the time of writing this was version 3.10. Just download this or any later version and run the
@@ -18,12 +18,11 @@ installer.
 
 n.b. for the windows installation, it's important to check the **Add Python 3.10 to PATH** box:
 
-<!-- <img src="images/python-windows-add-to-path.png" max-width="25%"> -->
-![Add git to the windows PATH](images/python-windows-add-to-path.png)
+<img src="images/python-windows-add-to-path.png" max-width="25%">
 
 Mac users will probably use the "universal installer" package
 
-2. Git
+### 2. Git
 
 Git is our means of managing songbook content and changes to songbook content on
 [github](https://github.com). You can get this from the [git downloads
@@ -38,7 +37,7 @@ For Mac users, install [homebrew](https://brew.sh/) if you don't already have it
 in a terminal/iterm2 window should do the trick.
 
 
-3. (Optional) A decent terminal emulator
+### 3. (Optional) A decent terminal emulator
 
 This will make things easier to use, IMO, but the default built-in MacOS Terminal and the Windows
 Command Prompt (or powershell) will also work just fine.
@@ -46,7 +45,7 @@ Command Prompt (or powershell) will also work just fine.
 On Windows git also comes with a shell called "git bash" - this is probably the best choice here.
 
 
-4. (Optional) A decent text (or programmer's) editor
+### 4. (Optional) A decent text (or programmer's) editor
 
 If you want to make any changes to the songsheets, you will need an editor that makes this easier.
 There are loads. Here are some...
