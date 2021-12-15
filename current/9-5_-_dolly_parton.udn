@@ -35,3 +35,6 @@ And you (G)spend your life putting (C)money in his pocket.
 
 ; # meta - ignored and not displayed
 ; font_size: 13pt
+; # disambiguation due to hyphen in title
+; title: 9-5
+; artist: Dolly Parton
