@@ -52,7 +52,7 @@ radio button selected.
 Commiting records your changes and gives them a description/name so we can see
 what was changed, when and by whom.
 
-When you press the **commit changes** button, github will save your changes and
+When you press the `commit changes` button, github will save your changes and
 take you back to the file content.
 
 ## Get them into the main repository
@@ -61,18 +61,19 @@ take you back to the file content.
 
 once you have made all the edits you wish to, to get them into the main book
 repo you need to ask to have them imported.
+
 You do this by creating a *Pull Request*
 
 Go back to the top of your repo (click on its name). Github will know you have
 made changes and should ask you if you would like to create a pull request.
 
-You do this by clicking on the **Contribute** button
+You do this by clicking on the `Contribute` button
 
 which should show you this:
 
 <img src="images/gh_contribute.png" alt="contribute options" width="75%"/>
 
-Click on the **Open Pull Request** button
+Click on the `Open Pull Request` button
 
 <img src="images/gh_create_pr.png" alt="create a PR" width="75%"/>
 
