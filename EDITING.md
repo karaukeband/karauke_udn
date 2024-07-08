@@ -154,7 +154,7 @@ details
 
 Save the file as PLAIN TEXT (have I pointed that out enough yet?) with a '.udn'
 extension.NOT '.udn.txt' or anything else. Windows users beware of hiding
-extensions:)
+extensions :)
 
 When you save this file, the github app should recognise that you've put
 something new into the repo (in this example I've added 2 potential songs, but
@@ -200,7 +200,9 @@ you should put a short description of your change in the little box.
 The larger one is optional. Generally, one-line commit messages are ok.
 
 When you've described your update - hit the 'Commit to <BRANCHNAME>' (it'll be
-your personal branch): <img src="images/ghd_commit_dialog.png"/>
+your personal branch): 
+
+<img src="images/ghd_commit_dialog.png"/>
 
 ## Pushing your changes
 
