@@ -1,7 +1,7 @@
 All The Small Things - Blink-182
 
 [intro] (G*) (F*) 
-(C) (F) (G) (G) [x2]
+(C) (F) (G) (F) [x2] {last F muted }
 
 [verse 1] {muted}
 (C)  All the(G) small things(F)
@@ -14,7 +14,7 @@ Watching,(G) waiting(F)
 Comm(G)iserati(C)ng
 
 [chorus]
-S(C*)ay it ain't so, I will not (G*)go
+S(C*)ay it ain't so, I will not go {long ringing chord, with tom fill}
 Turn the lights (F*)off, carry me (C)home
 (C)na-na na-na na-na na-na na na
 (G)na-na na-na na-na(F) na-na na na
@@ -22,7 +22,7 @@ Turn the lights (F*)off, carry me (C)home
 (G)na-na na-na na-na(F) na-na na na
 
 [instrumental]
-(C)(G)(F)(F) {x2}
+(C) (F) (G) (F) [x2]
 
 [verse 2]
 (C)  Late night,(G) come home(F)
@@ -39,7 +39,7 @@ Turn the lights (F*)off, carry me (C)home
 (G)Na-na na-na na-na(F) na-na na na
 
 [instrumental] {with picky bit}
-(C)(C)(F)(G) {x4}
+(C*)  (F*)(G*) {x4}
 
 [chorus]
 (C)  Say it ain't so, I will not (G)go
@@ -54,9 +54,10 @@ The night will go (F)on, the night will go on
 My little wind(C*)mill...
 
 ; # metadata
-; font_size: 11pt
 ; artist: Blink-182
 ; title: All The Small Things
 ; original_key: C
 ; source: https://tabs.ultimate-guitar.com/tab/blink-182/all-the-small-things-chords-118610
 ; transcriber: Unregistered
+; tags:
+;   - main
