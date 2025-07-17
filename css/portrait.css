@@ -1,0 +1,180 @@
+@charset "utf-8";
+
+@import url("ukedown_elements.css");
+
+@page {
+  margin: 0.3cm;
+  size: a4 portrait;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: verdana, "dejavu sans", sans-serif;
+  font-size: 12pt;
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  height: 100%;
+  margin: 0;
+  max-height: 100%;
+  overflow: auto;
+  padding: 0;
+  width: 100%;
+}
+
+h1 {
+  font-size: 14pt;
+  padding-bottom: 0;
+  padding-left: 5px;
+  text-align: center;
+}
+
+p {
+  margin-top: 0;
+  padding: 0;
+}
+
+.header {
+  left: 0;
+  margin: 0;
+  padding: 0;
+  page-break-before: always;
+  width: 100%;
+}
+
+/* content div, max 2 cols in portrait mode */
+.content {
+  column-fill: auto;
+  column-rule-style: solid;
+  column-width: auto;
+  float: left;
+  max-height: 730px;
+  padding-left: 5px;
+  padding-right: 5px;
+  width: 100%;
+}
+
+.chords {
+  align-items: flex-start;
+  display: flex;
+  flex-flow: column wrap;
+  float: right;
+  max-height: 840px;
+  max-width: 100px;
+  position: fixed;
+  right: 0;
+  width: 50px;
+}
+
+.overflow {
+  align-items: flex-start;
+  display: flex;
+  flex-flow: column wrap;
+  float: right;
+  max-height: 840px;
+  position: fixed;
+  right: 50px;
+  width: 50px;
+}
+
+/* footer  can have SVG background images */
+.footer {
+  background: white;
+  bottom: 0;
+  height: auto;
+  left: 0;
+  max-height: 30px;
+  position: fixed;
+  text-align: center;
+  width: 100%;
+
+  /* page-break-after: always; */
+}
+
+.footer img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5px;
+  max-height: 25px;
+  width: auto;
+}
+
+.footer a {
+  font-size: 0.8em;
+}
+
+.labels {
+  font-family: Verdana, Helvetica, sans-serif;
+  font-size: 0.5em;
+}
+
+/* index page is multi-column */
+.index {
+  column-rule: 1px solid black;
+  columns: auto 2;
+  margin: auto;
+  max-height: 730px;
+  padding: 5px;
+
+  /* overflow: auto; */
+  width: 100%;
+}
+
+.container {
+  max-height: 100%;
+  page-break-after: always;
+}
+
+.chord-diagram {
+  width: 48px;
+}
+
+.chordname {
+  font-family: Verdana, "DejaVu Sans", Helvetica, sans-serif;
+  font-size: 8px;
+  font-weight: bold;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+svg.labels {
+  font-family: Verdana, Helvetica, sans-serif;
+  font-size: 0.5em;
+}
+
+/* logo, watermark etc */
+.branding {
+  bottom: 0;
+  position: absolute;
+  right: 0;
+}
+
+.branding img {
+  float: right;
+  height: 3cm;
+  margin-bottom: 5px;
+  margin-right: 5px;
+}
+
+@media only screen and (device-width >= 768px) and (device-width <= 1024px) and (orientation: landscape) {
+  html {
+    height: 595px;
+    width: 842px;
+  }
+
+  .content {
+    column-count: 2;
+    max-height: 540px;
+    min-height: 490px;
+
+    /* A4 is 842 x 595 in landscape */
+    width: 100%;
+  }
+}
