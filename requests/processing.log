@@ -1,0 +1,612 @@
+DEBUG | Processing line 'Regret - New Order'
+DEBUG | Processing line 'Song:Regret'
+DEBUG | Processing line 'Band: New Order'
+DEBUG | line contains invalid chord match Band
+DEBUG | Processing line 'Chord analysis: Mats Fagergren'
+DEBUG | Processing line 'This chord version try to blend the lead, rythm guitar as well as the basic bass'
+DEBUG | Processing line 'notes (not the bass melody)..'
+DEBUG | Processing line ' '
+DEBUG | empty line
+DEBUG | Processing line 'The intro chord is a mix of Gsus4 and C(guitarx2 and synth). When using just one guitar,'
+DEBUG | Processing line ' a good'
+DEBUG | Processing line 'compromise is a C/D played on the 10 th fret (see instructions below)'
+DEBUG | Processing line 'Please use the chords according to the instruction.'
+DEBUG | Processing line ' '
+DEBUG | empty line
+DEBUG | Processing line '[chordinfo]'
+DEBUG | appending line: '[chordinfo]'
+DEBUG | Processing line '          E,A,D,G,B,e'
+DEBUG | line contains invalid chord match E,A,D,G,B,
+DEBUG | Processing line 'C/D       10,10,10,12,13,12 or..'
+DEBUG | line contains invalid chord match Gsus4add6
+DEBUG | processing chord 'C/D'
+DEBUG | Found valid chord C/D
+DEBUG | Processing line 'Cmaj7.    x,3,2,0,0,0'
+DEBUG | Processing line 'Cadd9.    x,3,2,0,3,0'
+DEBUG | Processing line 'Am7       5,7,5,5,5,5 in the verese'
+DEBUG | Processing line 'Fsus2     x,x,3,0,1,1 alt way.'
+DEBUG | line contains invalid chord match A7sus2
+DEBUG | processing chord 'Fsus2'
+DEBUG | Found valid chord Fsus2
+DEBUG | Processing line 'A7sus4.   x,0,2,0,3,0'
+DEBUG | Processing line 'F6sus2.   x,x,3,0,3,x'
+DEBUG | line contains invalid chord match F6sus2
+DEBUG | Processing line 'Fmaj7-5.  x,x,3,2,0,0'
+DEBUG | line contains invalid chord match Fmaj7-5
+DEBUG | Processing line 'F.        x,x,3,2,1,1'
+DEBUG | Processing line 'Fadd9.    x,x,3,2,1,3'
+DEBUG | Processing line 'F/A.      x,0,3,2,1,1'
+DEBUG | Processing line 'Bbmaj7.   x,1,3,2,3,1'
+DEBUG | Processing line 'Bb/C.     x,3,3,3,3,x'
+DEBUG | Processing line ' '
+DEBUG | empty line
+DEBUG | Processing line ' '
+DEBUG | empty line
+DEBUG | Processing line '[intro]'
+DEBUG | appending line: '[intro]'
+DEBUG | Processing line '| C/D |'
+DEBUG | Processing line '|Cmaj7 C Cadd9 Cmaj7 | Am7 | Cmaj7 C Cadd9 Cmaj7 | Fsus2 |'
+DEBUG | Processing line '|Cmaj7 C Cadd9 Cmaj7 |'
+DEBUG | Processing line '|Am7| A7sus2 Am7 A7sus4 A7sus2 | C | Cmaj7 C Cadd9 Cmaj7 |'
+DEBUG | Processing line '| Fsus2 | G7/F Fsus2 F6sus2 G7/F | C | Cmaj7 C Cadd9 Cmaj7 |'
+DEBUG | Processing line '|Fmaj7-5 F Fadd9 F| Fmaj7/A F/A Fadd9/A F/A |'
+DEBUG | Processing line '|Fmaj7-5 F Fadd9 F| Cmaj7 |'
+DEBUG | Processing line '|Fmaj7-5 F Fadd9 F| Fmaj7/A F/A Fadd9/A F/A |'
+DEBUG | Processing line '|Fmaj7-5 F Fadd9 F| Cmaj7 |'
+DEBUG | Processing line ' '
+DEBUG | empty line
+DEBUG | Processing line '[verse]'
+DEBUG | appending line: '[verse]'
+DEBUG | Processing line 'F'
+DEBUG | processing chord 'F'
+DEBUG | Found valid chord F
+DEBUG | Processing line '    Bbmaj7'
+DEBUG | processing chord 'Bbmaj7'
+DEBUG | Found valid chord Bbmaj7
+DEBUG | Processing line '   F'
+DEBUG | processing chord 'F'
+DEBUG | Found valid chord F
+DEBUG | Processing line '     Bb        Bb/C'
+DEBUG | processing chord 'Bb'
+DEBUG | Found valid chord Bb
+DEBUG | processing chord 'Bb/C'
+DEBUG | Found valid chord Bb/C
+DEBUG | Processing line 'Dm          Am7'
+DEBUG | processing chord 'Dm'
+DEBUG | Found valid chord Dm
+DEBUG | processing chord 'Am7'
+DEBUG | Found valid chord Am7
+DEBUG | Processing line '        Bb'
+DEBUG | processing chord 'Bb'
+DEBUG | Found valid chord Bb
+DEBUG | Processing line 'Bb                C'
+DEBUG | processing chord 'Bb'
+DEBUG | Found valid chord Bb
+DEBUG | processing chord 'C'
+DEBUG | Found valid chord C
+DEBUG | Processing line ' '
+DEBUG | empty line
+DEBUG | Processing line '| Cmaj7 C Cadd9 Cmaj7 |'
+DEBUG | Processing line ' '
+DEBUG | empty line
+DEBUG | Processing line '[chorus]'
+DEBUG | appending line: '[chorus]'
+DEBUG | Processing line ' '
+DEBUG | empty line
+DEBUG | Processing line 'Am7                      A7sus2 Am7 A7sus4 A7sus2'
+DEBUG | line contains invalid chord match A7sus2
+DEBUG | Processing line 'I would like a place I can call     my     own'
+DEBUG | Processing line 'C                        Cmaj7 C Cadd9 Cmaj7'
+DEBUG | processing chord 'C'
+DEBUG | Found valid chord C
+DEBUG | processing chord 'Cmaj7'
+DEBUG | Found valid chord Cmaj7
+DEBUG | processing chord 'C'
+DEBUG | Found valid chord C
+DEBUG | processing chord 'Cadd9'
+DEBUG | Found valid chord Cadd9
+DEBUG | processing chord 'Cmaj7'
+DEBUG | Found valid chord Cmaj7
+DEBUG | Processing line 'Fsus2                     G7/F Fsus2 F6sus2 G7/F'
+DEBUG | line contains invalid chord match F6sus2
+DEBUG | Processing line 'Wake up everyday, that would  be    a    start'
+DEBUG | Processing line 'C                             Cmaj7 C Cadd9 Cmaj7'
+DEBUG | processing chord 'C'
+DEBUG | Found valid chord C
+DEBUG | processing chord 'Cmaj7'
+DEBUG | Found valid chord Cmaj7
+DEBUG | processing chord 'C'
+DEBUG | Found valid chord C
+DEBUG | processing chord 'Cadd9'
+DEBUG | Found valid chord Cadd9
+DEBUG | processing chord 'Cmaj7'
+DEBUG | Found valid chord Cmaj7
+DEBUG | Processing line ' '
+DEBUG | empty line
+DEBUG | Processing line 'Fmaj7-5 F Fadd9 F Fmaj7/A F/A Fadd9/A F/A'
+DEBUG | line contains invalid chord match Fmaj7-5
+DEBUG | Processing line 'I      was    upset   ,   you      see'
+DEBUG | Processing line 'Fmaj7-5 F Fadd9 F   Cmaj7'
+DEBUG | line contains invalid chord match Fmaj7-5
+DEBUG | Processing line 'Almost  all the  .. time'
+DEBUG | Processing line 'Fmaj7-5 F Fadd9 F Fmaj7/A F/A Fadd9/A F/A'
+DEBUG | line contains invalid chord match Fmaj7-5
+DEBUG | Processing line 'You   used    to   be    a    stranger'
+DEBUG | Processing line 'Fmaj7-5 F Fadd9 F   Cmaj7'
+DEBUG | line contains invalid chord match Fmaj7-5
+DEBUG | Processing line 'Now    you   are ..  mine'
+DEBUG | Processing line ' '
+DEBUG | empty line
+DEBUG | Processing line '[verse]'
+DEBUG | appending line: '[verse]'
+DEBUG | Processing line 'F'
+DEBUG | processing chord 'F'
+DEBUG | Found valid chord F
+DEBUG | Processing line '     Bbmaj7'
+DEBUG | processing chord 'Bbmaj7'
+DEBUG | Found valid chord Bbmaj7
+DEBUG | Processing line '     F'
+DEBUG | processing chord 'F'
+DEBUG | Found valid chord F
+DEBUG | Processing line '    Bb            Bb/C'
+DEBUG | processing chord 'Bb'
+DEBUG | Found valid chord Bb
+DEBUG | processing chord 'Bb/C'
+DEBUG | Found valid chord Bb/C
+DEBUG | Processing line 'Dm                 Am7'
+DEBUG | processing chord 'Dm'
+DEBUG | Found valid chord Dm
+DEBUG | processing chord 'Am7'
+DEBUG | Found valid chord Am7
+DEBUG | Processing line '     Bb'
+DEBUG | processing chord 'Bb'
+DEBUG | Found valid chord Bb
+DEBUG | Processing line '   C              Am7'
+DEBUG | processing chord 'C'
+DEBUG | Found valid chord C
+DEBUG | processing chord 'Am7'
+DEBUG | Found valid chord Am7
+DEBUG | Processing line 'Bb                       C'
+DEBUG | processing chord 'Bb'
+DEBUG | Found valid chord Bb
+DEBUG | processing chord 'C'
+DEBUG | Found valid chord C
+DEBUG | Processing line ' '
+DEBUG | empty line
+DEBUG | Processing line '|Cmaj7 C Cadd9 C|'
+DEBUG | Processing line ' '
+DEBUG | empty line
+DEBUG | Processing line '[chorus]'
+DEBUG | appending line: '[chorus]'
+DEBUG | Processing line ' '
+DEBUG | empty line
+DEBUG | Processing line 'Am7                      A7sus2 Am7 A7sus4 A7sus2'
+DEBUG | line contains invalid chord match A7sus2
+DEBUG | Processing line 'I would like a place I can call     my     own'
+DEBUG | Processing line 'C                        Cmaj7 C Cadd9 Cmaj7'
+DEBUG | processing chord 'C'
+DEBUG | Found valid chord C
+DEBUG | processing chord 'Cmaj7'
+DEBUG | Found valid chord Cmaj7
+DEBUG | processing chord 'C'
+DEBUG | Found valid chord C
+DEBUG | processing chord 'Cadd9'
+DEBUG | Found valid chord Cadd9
+DEBUG | processing chord 'Cmaj7'
+DEBUG | Found valid chord Cmaj7
+DEBUG | Processing line 'Fsus2                     G7/F Fsus2 F6sus2 G7/F'
+DEBUG | line contains invalid chord match F6sus2
+DEBUG | Processing line 'Wake up everyday, that would  be    a    start'
+DEBUG | Processing line 'C                             Cmaj7 C Cadd9 Cmaj7'
+DEBUG | processing chord 'C'
+DEBUG | Found valid chord C
+DEBUG | processing chord 'Cmaj7'
+DEBUG | Found valid chord Cmaj7
+DEBUG | processing chord 'C'
+DEBUG | Found valid chord C
+DEBUG | processing chord 'Cadd9'
+DEBUG | Found valid chord Cadd9
+DEBUG | processing chord 'Cmaj7'
+DEBUG | Found valid chord Cmaj7
+DEBUG | Processing line ' '
+DEBUG | empty line
+DEBUG | Processing line 'Fmaj7-5 F Fadd9 F Fmaj7/A F/A Fadd9/A F/A'
+DEBUG | line contains invalid chord match Fmaj7-5
+DEBUG | Processing line 'I      was    a   ,   short       fuse'
+DEBUG | Processing line 'Fmaj7-5 F Fadd9 F   Cmaj7'
+DEBUG | line contains invalid chord match Fmaj7-5
+DEBUG | Processing line 'Burning all the   .. time'
+DEBUG | Processing line 'Fmaj7-5 F Fadd9 F Fmaj7/A F/A Fadd9/A F/A'
+DEBUG | line contains invalid chord match Fmaj7-5
+DEBUG | Processing line 'You   were    a    complete     stranger'
+DEBUG | Processing line 'Fmaj7-5 F Fadd9 F   Cmaj7'
+DEBUG | line contains invalid chord match Fmaj7-5
+DEBUG | Processing line 'Now    you   are ..  mine'
+DEBUG | Processing line ' '
+DEBUG | empty line
+DEBUG | Processing line '[solo-verse]'
+DEBUG | appending line: '[solo-verse]'
+DEBUG | Processing line ' '
+DEBUG | empty line
+DEBUG | Processing line '|F|F|Bb|Bb|F|F|Bb|Bb|Dm|Am7|Bb|Bb|C|'
+DEBUG | Processing line '|Cmaj7 C Cadd9 C|'
+DEBUG | Processing line ' '
+DEBUG | empty line
+DEBUG | Processing line '[chorus-outro]'
+DEBUG | appending line: '[chorus-outro]'
+DEBUG | Processing line ' '
+DEBUG | empty line
+DEBUG | Processing line 'Am7                      A7sus2 Am7 A7sus4 A7sus2'
+DEBUG | line contains invalid chord match A7sus2
+DEBUG | Processing line 'I would like a place I can call     my     own'
+DEBUG | Processing line 'C                        Cmaj7 C Cadd9 Cmaj7'
+DEBUG | processing chord 'C'
+DEBUG | Found valid chord C
+DEBUG | processing chord 'Cmaj7'
+DEBUG | Found valid chord Cmaj7
+DEBUG | processing chord 'C'
+DEBUG | Found valid chord C
+DEBUG | processing chord 'Cadd9'
+DEBUG | Found valid chord Cadd9
+DEBUG | processing chord 'Cmaj7'
+DEBUG | Found valid chord Cmaj7
+DEBUG | Processing line 'Fsus2                     G7/F Fsus2 F6sus2 G7/F'
+DEBUG | line contains invalid chord match F6sus2
+DEBUG | Processing line 'Wake up everyday, that would  be    a    start'
+DEBUG | Processing line 'C                             Cmaj7 C Cadd9 Cmaj7'
+DEBUG | processing chord 'C'
+DEBUG | Found valid chord C
+DEBUG | processing chord 'Cmaj7'
+DEBUG | Found valid chord Cmaj7
+DEBUG | processing chord 'C'
+DEBUG | Found valid chord C
+DEBUG | processing chord 'Cadd9'
+DEBUG | Found valid chord Cadd9
+DEBUG | processing chord 'Cmaj7'
+DEBUG | Found valid chord Cmaj7
+DEBUG | Processing line ' '
+DEBUG | empty line
+DEBUG | Processing line ' '
+DEBUG | empty line
+DEBUG | Processing line 'Am7     A7sus2 Am7 A7sus4 A7sus2'
+DEBUG | line contains invalid chord match A7sus2
+DEBUG | Processing line '            Just    wait    'till..'
+DEBUG | Processing line 'C         Cmaj7  C  Cadd9   Cmaj7'
+DEBUG | processing chord 'C'
+DEBUG | Found valid chord C
+DEBUG | processing chord 'Cmaj7'
+DEBUG | Found valid chord Cmaj7
+DEBUG | processing chord 'C'
+DEBUG | Found valid chord C
+DEBUG | processing chord 'Cadd9'
+DEBUG | Found valid chord Cadd9
+DEBUG | processing chord 'Cmaj7'
+DEBUG | Found valid chord Cmaj7
+DEBUG | Processing line 'Fsus2    G7/F Fsus2 F6sus2 G7/F'
+DEBUG | line contains invalid chord match F6sus2
+DEBUG | Processing line 'all say.                   Just'
+DEBUG | Processing line 'C               Cmaj7 C Cadd9 Cmaj7'
+DEBUG | processing chord 'C'
+DEBUG | Found valid chord C
+DEBUG | processing chord 'Cmaj7'
+DEBUG | Found valid chord Cmaj7
+DEBUG | processing chord 'C'
+DEBUG | Found valid chord C
+DEBUG | processing chord 'Cadd9'
+DEBUG | Found valid chord Cadd9
+DEBUG | processing chord 'Cmaj7'
+DEBUG | Found valid chord Cmaj7
+DEBUG | Processing line ' '
+DEBUG | empty line
+DEBUG | Processing line '|Fmaj7-5 F Fadd9 F| Fmaj7/A F/A Fadd9/A F/A |'
+DEBUG | Processing line '|Fmaj7-5 F Fadd9 F| Cmaj7 C Cadd9 Cmaj7|'
+DEBUG | Processing line '|Fmaj7-5 F Fadd9 F| Fmaj7/A F/A Fadd9/A F/A |'
+DEBUG | Processing line '|Fmaj7-5 F Fadd9 F| Cmaj7 C Cadd9 Cmaj7|'
+DEBUG | Processing line '|Fmaj7-5 F Fadd9 F| Fmaj7/A F/A Fadd9/A F/A |'
+DEBUG | Processing line '|Fmaj7-5 F Fadd9 F| Cmaj7 C Cadd9 Cmaj7|C|'
+DEBUG | Processing line 'Regret - New Order'
+DEBUG | Processing line 'Song:Regret'
+DEBUG | Processing line 'Band: New Order'
+DEBUG | line contains invalid chord match Band
+DEBUG | Processing line 'Chord analysis: Mats Fagergren'
+DEBUG | Processing line 'This chord version try to blend the lead, rythm guitar as well as the basic bass'
+DEBUG | Processing line 'notes (not the bass melody)..'
+DEBUG | Processing line ' '
+DEBUG | empty line
+DEBUG | Processing line 'The intro chord is a mix of Gsus4 and C(guitarx2 and synth). When using just one guitar,'
+DEBUG | Processing line ' a good'
+DEBUG | Processing line 'compromise is a C/D played on the 10 th fret (see instructions below)'
+DEBUG | Processing line 'Please use the chords according to the instruction.'
+DEBUG | Processing line ' '
+DEBUG | empty line
+DEBUG | Processing line '[chordinfo]'
+DEBUG | appending line: '[chordinfo]'
+DEBUG | Processing line '          E,A,D,G,B,e'
+DEBUG | line contains invalid chord match E,A,D,G,B,
+DEBUG | Processing line 'C/D       10,10,10,12,13,12 or..'
+DEBUG | line contains invalid chord match Gsus4add6
+DEBUG | processing chord 'C/D'
+DEBUG | Found valid chord C/D
+DEBUG | Processing line 'Cmaj7.    x,3,2,0,0,0'
+DEBUG | Processing line 'Cadd9.    x,3,2,0,3,0'
+DEBUG | Processing line 'Am7       5,7,5,5,5,5 in the verese'
+DEBUG | Processing line 'Fsus2     x,x,3,0,1,1 alt way.'
+DEBUG | line contains invalid chord match A7sus2
+DEBUG | processing chord 'Fsus2'
+DEBUG | Found valid chord Fsus2
+DEBUG | Processing line 'A7sus4.   x,0,2,0,3,0'
+DEBUG | Processing line 'F6sus2.   x,x,3,0,3,x'
+DEBUG | line contains invalid chord match F6sus2
+DEBUG | Processing line 'Fmaj7-5.  x,x,3,2,0,0'
+DEBUG | line contains invalid chord match Fmaj7-5
+DEBUG | Processing line 'F.        x,x,3,2,1,1'
+DEBUG | Processing line 'Fadd9.    x,x,3,2,1,3'
+DEBUG | Processing line 'F/A.      x,0,3,2,1,1'
+DEBUG | Processing line 'Bbmaj7.   x,1,3,2,3,1'
+DEBUG | Processing line 'Bb/C.     x,3,3,3,3,x'
+DEBUG | Processing line ' '
+DEBUG | empty line
+DEBUG | Processing line ' '
+DEBUG | empty line
+DEBUG | Processing line '[intro]'
+DEBUG | appending line: '[intro]'
+DEBUG | Processing line '| C/D |'
+DEBUG | Processing line '|Cmaj7 C Cadd9 Cmaj7 | Am7 | Cmaj7 C Cadd9 Cmaj7 | Fsus2 |'
+DEBUG | Processing line '|Cmaj7 C Cadd9 Cmaj7 |'
+DEBUG | Processing line '|Am7| A7sus2 Am7 A7sus4 A7sus2 | C | Cmaj7 C Cadd9 Cmaj7 |'
+DEBUG | Processing line '| Fsus2 | G7/F Fsus2 F6sus2 G7/F | C | Cmaj7 C Cadd9 Cmaj7 |'
+DEBUG | Processing line '|Fmaj7-5 F Fadd9 F| Fmaj7/A F/A Fadd9/A F/A |'
+DEBUG | Processing line '|Fmaj7-5 F Fadd9 F| Cmaj7 |'
+DEBUG | Processing line '|Fmaj7-5 F Fadd9 F| Fmaj7/A F/A Fadd9/A F/A |'
+DEBUG | Processing line '|Fmaj7-5 F Fadd9 F| Cmaj7 |'
+DEBUG | Processing line ' '
+DEBUG | empty line
+DEBUG | Processing line '[verse]'
+DEBUG | appending line: '[verse]'
+DEBUG | Processing line 'F'
+DEBUG | processing chord 'F'
+DEBUG | Found valid chord F
+DEBUG | Processing line '    Bbmaj7'
+DEBUG | processing chord 'Bbmaj7'
+DEBUG | Found valid chord Bbmaj7
+DEBUG | Processing line '   F'
+DEBUG | processing chord 'F'
+DEBUG | Found valid chord F
+DEBUG | Processing line '     Bb        Bb/C'
+DEBUG | processing chord 'Bb'
+DEBUG | Found valid chord Bb
+DEBUG | processing chord 'Bb/C'
+DEBUG | Found valid chord Bb/C
+DEBUG | Processing line 'Dm          Am7'
+DEBUG | processing chord 'Dm'
+DEBUG | Found valid chord Dm
+DEBUG | processing chord 'Am7'
+DEBUG | Found valid chord Am7
+DEBUG | Processing line '        Bb'
+DEBUG | processing chord 'Bb'
+DEBUG | Found valid chord Bb
+DEBUG | Processing line 'Bb                C'
+DEBUG | processing chord 'Bb'
+DEBUG | Found valid chord Bb
+DEBUG | processing chord 'C'
+DEBUG | Found valid chord C
+DEBUG | Processing line ' '
+DEBUG | empty line
+DEBUG | Processing line '| Cmaj7 C Cadd9 Cmaj7 |'
+DEBUG | Processing line ' '
+DEBUG | empty line
+DEBUG | Processing line '[chorus]'
+DEBUG | appending line: '[chorus]'
+DEBUG | Processing line ' '
+DEBUG | empty line
+DEBUG | Processing line 'Am7                      A7sus2 Am7 A7sus4 A7sus2'
+DEBUG | line contains invalid chord match A7sus2
+DEBUG | Processing line 'I would like a place I can call     my     own'
+DEBUG | Processing line 'C                        Cmaj7 C Cadd9 Cmaj7'
+DEBUG | processing chord 'C'
+DEBUG | Found valid chord C
+DEBUG | processing chord 'Cmaj7'
+DEBUG | Found valid chord Cmaj7
+DEBUG | processing chord 'C'
+DEBUG | Found valid chord C
+DEBUG | processing chord 'Cadd9'
+DEBUG | Found valid chord Cadd9
+DEBUG | processing chord 'Cmaj7'
+DEBUG | Found valid chord Cmaj7
+DEBUG | Processing line 'Fsus2                     G7/F Fsus2 F6sus2 G7/F'
+DEBUG | line contains invalid chord match F6sus2
+DEBUG | Processing line 'Wake up everyday, that would  be    a    start'
+DEBUG | Processing line 'C                             Cmaj7 C Cadd9 Cmaj7'
+DEBUG | processing chord 'C'
+DEBUG | Found valid chord C
+DEBUG | processing chord 'Cmaj7'
+DEBUG | Found valid chord Cmaj7
+DEBUG | processing chord 'C'
+DEBUG | Found valid chord C
+DEBUG | processing chord 'Cadd9'
+DEBUG | Found valid chord Cadd9
+DEBUG | processing chord 'Cmaj7'
+DEBUG | Found valid chord Cmaj7
+DEBUG | Processing line ' '
+DEBUG | empty line
+DEBUG | Processing line 'Fmaj7-5 F Fadd9 F Fmaj7/A F/A Fadd9/A F/A'
+DEBUG | line contains invalid chord match Fmaj7-5
+DEBUG | Processing line 'I      was    upset   ,   you      see'
+DEBUG | Processing line 'Fmaj7-5 F Fadd9 F   Cmaj7'
+DEBUG | line contains invalid chord match Fmaj7-5
+DEBUG | Processing line 'Almost  all the  .. time'
+DEBUG | Processing line 'Fmaj7-5 F Fadd9 F Fmaj7/A F/A Fadd9/A F/A'
+DEBUG | line contains invalid chord match Fmaj7-5
+DEBUG | Processing line 'You   used    to   be    a    stranger'
+DEBUG | Processing line 'Fmaj7-5 F Fadd9 F   Cmaj7'
+DEBUG | line contains invalid chord match Fmaj7-5
+DEBUG | Processing line 'Now    you   are ..  mine'
+DEBUG | Processing line ' '
+DEBUG | empty line
+DEBUG | Processing line '[verse]'
+DEBUG | appending line: '[verse]'
+DEBUG | Processing line 'F'
+DEBUG | processing chord 'F'
+DEBUG | Found valid chord F
+DEBUG | Processing line '     Bbmaj7'
+DEBUG | processing chord 'Bbmaj7'
+DEBUG | Found valid chord Bbmaj7
+DEBUG | Processing line '     F'
+DEBUG | processing chord 'F'
+DEBUG | Found valid chord F
+DEBUG | Processing line '    Bb            Bb/C'
+DEBUG | processing chord 'Bb'
+DEBUG | Found valid chord Bb
+DEBUG | processing chord 'Bb/C'
+DEBUG | Found valid chord Bb/C
+DEBUG | Processing line 'Dm                 Am7'
+DEBUG | processing chord 'Dm'
+DEBUG | Found valid chord Dm
+DEBUG | processing chord 'Am7'
+DEBUG | Found valid chord Am7
+DEBUG | Processing line '     Bb'
+DEBUG | processing chord 'Bb'
+DEBUG | Found valid chord Bb
+DEBUG | Processing line '   C              Am7'
+DEBUG | processing chord 'C'
+DEBUG | Found valid chord C
+DEBUG | processing chord 'Am7'
+DEBUG | Found valid chord Am7
+DEBUG | Processing line 'Bb                       C'
+DEBUG | processing chord 'Bb'
+DEBUG | Found valid chord Bb
+DEBUG | processing chord 'C'
+DEBUG | Found valid chord C
+DEBUG | Processing line ' '
+DEBUG | empty line
+DEBUG | Processing line '|Cmaj7 C Cadd9 C|'
+DEBUG | Processing line ' '
+DEBUG | empty line
+DEBUG | Processing line '[chorus]'
+DEBUG | appending line: '[chorus]'
+DEBUG | Processing line ' '
+DEBUG | empty line
+DEBUG | Processing line 'Am7                      A7sus2 Am7 A7sus4 A7sus2'
+DEBUG | line contains invalid chord match A7sus2
+DEBUG | Processing line 'I would like a place I can call     my     own'
+DEBUG | Processing line 'C                        Cmaj7 C Cadd9 Cmaj7'
+DEBUG | processing chord 'C'
+DEBUG | Found valid chord C
+DEBUG | processing chord 'Cmaj7'
+DEBUG | Found valid chord Cmaj7
+DEBUG | processing chord 'C'
+DEBUG | Found valid chord C
+DEBUG | processing chord 'Cadd9'
+DEBUG | Found valid chord Cadd9
+DEBUG | processing chord 'Cmaj7'
+DEBUG | Found valid chord Cmaj7
+DEBUG | Processing line 'Fsus2                     G7/F Fsus2 F6sus2 G7/F'
+DEBUG | line contains invalid chord match F6sus2
+DEBUG | Processing line 'Wake up everyday, that would  be    a    start'
+DEBUG | Processing line 'C                             Cmaj7 C Cadd9 Cmaj7'
+DEBUG | processing chord 'C'
+DEBUG | Found valid chord C
+DEBUG | processing chord 'Cmaj7'
+DEBUG | Found valid chord Cmaj7
+DEBUG | processing chord 'C'
+DEBUG | Found valid chord C
+DEBUG | processing chord 'Cadd9'
+DEBUG | Found valid chord Cadd9
+DEBUG | processing chord 'Cmaj7'
+DEBUG | Found valid chord Cmaj7
+DEBUG | Processing line ' '
+DEBUG | empty line
+DEBUG | Processing line 'Fmaj7-5 F Fadd9 F Fmaj7/A F/A Fadd9/A F/A'
+DEBUG | line contains invalid chord match Fmaj7-5
+DEBUG | Processing line 'I      was    a   ,   short       fuse'
+DEBUG | Processing line 'Fmaj7-5 F Fadd9 F   Cmaj7'
+DEBUG | line contains invalid chord match Fmaj7-5
+DEBUG | Processing line 'Burning all the   .. time'
+DEBUG | Processing line 'Fmaj7-5 F Fadd9 F Fmaj7/A F/A Fadd9/A F/A'
+DEBUG | line contains invalid chord match Fmaj7-5
+DEBUG | Processing line 'You   were    a    complete     stranger'
+DEBUG | Processing line 'Fmaj7-5 F Fadd9 F   Cmaj7'
+DEBUG | line contains invalid chord match Fmaj7-5
+DEBUG | Processing line 'Now    you   are ..  mine'
+DEBUG | Processing line ' '
+DEBUG | empty line
+DEBUG | Processing line '[solo-verse]'
+DEBUG | appending line: '[solo-verse]'
+DEBUG | Processing line ' '
+DEBUG | empty line
+DEBUG | Processing line '|F|F|Bb|Bb|F|F|Bb|Bb|Dm|Am7|Bb|Bb|C|'
+DEBUG | Processing line '|Cmaj7 C Cadd9 C|'
+DEBUG | Processing line ' '
+DEBUG | empty line
+DEBUG | Processing line '[chorus-outro]'
+DEBUG | appending line: '[chorus-outro]'
+DEBUG | Processing line ' '
+DEBUG | empty line
+DEBUG | Processing line 'Am7                      A7sus2 Am7 A7sus4 A7sus2'
+DEBUG | line contains invalid chord match A7sus2
+DEBUG | Processing line 'I would like a place I can call     my     own'
+DEBUG | Processing line 'C                        Cmaj7 C Cadd9 Cmaj7'
+DEBUG | processing chord 'C'
+DEBUG | Found valid chord C
+DEBUG | processing chord 'Cmaj7'
+DEBUG | Found valid chord Cmaj7
+DEBUG | processing chord 'C'
+DEBUG | Found valid chord C
+DEBUG | processing chord 'Cadd9'
+DEBUG | Found valid chord Cadd9
+DEBUG | processing chord 'Cmaj7'
+DEBUG | Found valid chord Cmaj7
+DEBUG | Processing line 'Fsus2                     G7/F Fsus2 F6sus2 G7/F'
+DEBUG | line contains invalid chord match F6sus2
+DEBUG | Processing line 'Wake up everyday, that would  be    a    start'
+DEBUG | Processing line 'C                             Cmaj7 C Cadd9 Cmaj7'
+DEBUG | processing chord 'C'
+DEBUG | Found valid chord C
+DEBUG | processing chord 'Cmaj7'
+DEBUG | Found valid chord Cmaj7
+DEBUG | processing chord 'C'
+DEBUG | Found valid chord C
+DEBUG | processing chord 'Cadd9'
+DEBUG | Found valid chord Cadd9
+DEBUG | processing chord 'Cmaj7'
+DEBUG | Found valid chord Cmaj7
+DEBUG | Processing line ' '
+DEBUG | empty line
+DEBUG | Processing line ' '
+DEBUG | empty line
+DEBUG | Processing line 'Am7     A7sus2 Am7 A7sus4 A7sus2'
+DEBUG | line contains invalid chord match A7sus2
+DEBUG | Processing line '            Just    wait    'till..'
+DEBUG | Processing line 'C         Cmaj7  C  Cadd9   Cmaj7'
+DEBUG | processing chord 'C'
+DEBUG | Found valid chord C
+DEBUG | processing chord 'Cmaj7'
+DEBUG | Found valid chord Cmaj7
+DEBUG | processing chord 'C'
+DEBUG | Found valid chord C
+DEBUG | processing chord 'Cadd9'
+DEBUG | Found valid chord Cadd9
+DEBUG | processing chord 'Cmaj7'
+DEBUG | Found valid chord Cmaj7
+DEBUG | Processing line 'Fsus2    G7/F Fsus2 F6sus2 G7/F'
+DEBUG | line contains invalid chord match F6sus2
+DEBUG | Processing line 'all say.                   Just'
+DEBUG | Processing line 'C               Cmaj7 C Cadd9 Cmaj7'
+DEBUG | processing chord 'C'
+DEBUG | Found valid chord C
+DEBUG | processing chord 'Cmaj7'
+DEBUG | Found valid chord Cmaj7
+DEBUG | processing chord 'C'
+DEBUG | Found valid chord C
+DEBUG | processing chord 'Cadd9'
+DEBUG | Found valid chord Cadd9
+DEBUG | processing chord 'Cmaj7'
+DEBUG | Found valid chord Cmaj7
+DEBUG | Processing line ' '
+DEBUG | empty line
+DEBUG | Processing line '|Fmaj7-5 F Fadd9 F| Fmaj7/A F/A Fadd9/A F/A |'
+DEBUG | Processing line '|Fmaj7-5 F Fadd9 F| Cmaj7 C Cadd9 Cmaj7|'
+DEBUG | Processing line '|Fmaj7-5 F Fadd9 F| Fmaj7/A F/A Fadd9/A F/A |'
+DEBUG | Processing line '|Fmaj7-5 F Fadd9 F| Cmaj7 C Cadd9 Cmaj7|'
+DEBUG | Processing line '|Fmaj7-5 F Fadd9 F| Fmaj7/A F/A Fadd9/A F/A |'
+DEBUG | Processing line '|Fmaj7-5 F Fadd9 F| Cmaj7 C Cadd9 Cmaj7|C|'

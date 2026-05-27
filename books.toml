@@ -1,0 +1,8 @@
+[default]
+title = "Karauke Songbook"
+content = "current"
+profile = "karauke"
+
+[singer]
+title = "Karauke Songbook  - Singer's Version"
+profile = "singer"
