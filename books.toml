@@ -1,8 +1,12 @@
 [default]
 title = "Karauke Songbook"
-content = "current"
+content = "main"
 profile = "karauke"
 
 [singer]
 title = "Karauke Songbook  - Singer's Version"
+profile = "singer"
+
+[kids]
+title = "Karauke Songbook - Family Friendly"
 profile = "singer"
